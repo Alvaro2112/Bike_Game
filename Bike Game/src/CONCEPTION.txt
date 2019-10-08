@@ -1,0 +1,11 @@
+
+Nous avons, pour ce Jeux, suivi les instructions et avons implementes toutes les classes de l'etape 2 dans acteur (Acteur, ActorGame , GameEntity ) et puis 
+pour toutes le classe concernant les obstacles oe entites du Jeux nous les avons implemente dans bike ou chaque classe et en fonction de se n�cessitons une sous-classe
+de GameEntity ou d'ActorGame ou de Graphics (Acteur).
+
+Chaque classe necessaire pour creer chaque Entity (Bike, Pendule, Bascule....) ont ete tous creer dans le 
+seul et meme dossier bike et non dans des fichiers separe pour chaque entite pour des questions d'accessible.
+
+Finalement la totalite du Jeux va etre tournee par Programme java qui lui se trouve dans le fichier Play. 
+
+Modifications apportees au materiel fourni: Rajouts de couleurs dans window/swing/swingwindow java
