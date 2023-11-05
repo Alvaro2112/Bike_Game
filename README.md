@@ -1,45 +1,34 @@
+# Bike Game Description
 
----
-author:
+Bike Game is a dynamic Java-based game that incorporates the Jbox2D physics library. It was developed for the CS-107 course at EPFL. The game is designed to run optimally on Windows systems.
+
+## Requirements
+
+- JBox2D Library
+
+## Getting Started
+
+To start the game, execute `Program.java`.
+
+## Game Overview
+
+The objective of the game is to navigate your bike to the flag at the level's end, dodging obstacles and collecting as many coins as possible along the way.
+
+## Controls
+
+- **Left Arrow (←):** Rotate left
+- **Right Arrow (→):** Rotate right
+- **Up Arrow (↑):** Accelerate
+- **Down Arrow (↓):** Brake
+- **SPACE:** Change vehicle orientation (180° flip)
+- **R:** Restart the game
+- **Shift:** Jump
+
+## Authors
+
 - Alvaro Cauderan
 - Gauthier Boeshertz
-date: December 2017
-title: Bike Game
----
 
-Description
-===========
+## Acknowledgments
 
-Bike Game is a game coded in Java with the help of the Jbox2D
-library. This was a project for the CS-107 course at EPFL. Requirements
-: JBox2D, best experience on Windows.
-
-
-Game description
-================
-
-The aim of the game is to reach the flag at the end of the map while avoiding obstacles and collecting
-the most coins possible.
-
-Launch
-------
-Bike Game can be launched by running Program.java
-
-Controls
---------
-
--   &larr; : left rotation
-
--   &rarr;  : right rotation
-
--   &uarr; : accelerate
-
--   &darr; : break
-
--   SPACE : change vehicule orientation (180°)
-
--   R : Start over
-
--   Shift : Jump
-
-
+Special thanks to the CS-107 course instructors and assistants at EPFL for their guidance and support in the development of this project.
